@@ -13,7 +13,7 @@ This project is a computer vision-based **finger counter** built using **OpenCV*
 
 ## Demo
 
-click here![https://drive.google.com/file/d/1jzWXwkOnrxPtqJcm1tYCfPFqdaVf6lD7/view?usp=sharing)
+- [Live Demo](https://drive.google.com/file/d/1jzWXwkOnrxPtqJcm1tYCfPFqdaVf6lD7/view?usp=sharing)
 
 ## Installation
 
@@ -94,4 +94,14 @@ python FingerCounter.py
 ## License
 
 This project is licensed under the MIT License. 
+
+
+## Contact
+
+For any questions or support, please contact:
+
+- **Name**: Pahirathan Nithilan
+- **Email**: [nithilan32@gmail.com](mailto:nithilan32@gmail.com)
+- **GitHub**: [Pahinithi](https://github.com/Pahinithi)
+
 
