@@ -1,4 +1,4 @@
-# Finger Counter using Hand Tracking | Computer Vision | OpenCV Python
+# Finger Counter using Hand Tracking Computer Vision OpenCV Python
 
 This project is a computer vision-based **finger counter** built using **OpenCV** and a custom **Hand Tracking Module**. The system detects the number of fingers raised in front of the webcam in real time and displays the corresponding finger count image.
 
